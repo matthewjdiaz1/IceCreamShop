@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abb1eb82ebaf1805d609c6ab36df409e",
+    "revision": "35276e47d72c5e7a80708e753f183fe5",
     "url": "/IceCreamShop/index.html"
   },
   {
-    "revision": "5dac35ef73c55a9ab26d",
-    "url": "/IceCreamShop/static/css/main.5ecd60fb.chunk.css"
+    "revision": "032ccd8102fcad669595",
+    "url": "/IceCreamShop/static/css/main.bbec8a60.chunk.css"
   },
   {
     "revision": "6bba21fd3d990f5bcc85",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IceCreamShop/static/js/2.ebe9c038.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5dac35ef73c55a9ab26d",
-    "url": "/IceCreamShop/static/js/main.b3af5dac.chunk.js"
+    "revision": "032ccd8102fcad669595",
+    "url": "/IceCreamShop/static/js/main.11ef4af6.chunk.js"
   },
   {
     "revision": "da5d9eada8499c48f725",

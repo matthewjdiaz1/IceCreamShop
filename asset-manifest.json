@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/IceCreamShop/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/IceCreamShop/static/js/main.b3af5dac.chunk.js",
-    "main.js.map": "/IceCreamShop/static/js/main.b3af5dac.chunk.js.map",
+    "main.css": "/IceCreamShop/static/css/main.bbec8a60.chunk.css",
+    "main.js": "/IceCreamShop/static/js/main.11ef4af6.chunk.js",
+    "main.js.map": "/IceCreamShop/static/js/main.11ef4af6.chunk.js.map",
     "runtime-main.js": "/IceCreamShop/static/js/runtime-main.77b336d7.js",
     "runtime-main.js.map": "/IceCreamShop/static/js/runtime-main.77b336d7.js.map",
     "static/js/2.ebe9c038.chunk.js": "/IceCreamShop/static/js/2.ebe9c038.chunk.js",
     "static/js/2.ebe9c038.chunk.js.map": "/IceCreamShop/static/js/2.ebe9c038.chunk.js.map",
     "index.html": "/IceCreamShop/index.html",
-    "precache-manifest.7b5e98b2fb1a290871270312c9678742.js": "/IceCreamShop/precache-manifest.7b5e98b2fb1a290871270312c9678742.js",
+    "precache-manifest.ae6cf997ab4b7062346a0764e40a17a9.js": "/IceCreamShop/precache-manifest.ae6cf997ab4b7062346a0764e40a17a9.js",
     "service-worker.js": "/IceCreamShop/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/IceCreamShop/static/css/main.5ecd60fb.chunk.css.map",
+    "static/css/main.bbec8a60.chunk.css.map": "/IceCreamShop/static/css/main.bbec8a60.chunk.css.map",
     "static/js/2.ebe9c038.chunk.js.LICENSE.txt": "/IceCreamShop/static/js/2.ebe9c038.chunk.js.LICENSE.txt",
     "static/media/Chocolate.png": "/IceCreamShop/static/media/Chocolate.6f00992d.png",
     "static/media/Raspberry.png": "/IceCreamShop/static/media/Raspberry.dd884e14.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.77b336d7.js",
     "static/js/2.ebe9c038.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.b3af5dac.chunk.js"
+    "static/css/main.bbec8a60.chunk.css",
+    "static/js/main.11ef4af6.chunk.js"
   ]
 }
