@@ -2,7 +2,6 @@ import React from 'react';
 import Header from './Header';
 import IcecreamCarousel from './IcecreamCarousel';
 
-// const data = require('../../data.js');
 const data = require('../data.js');
 
 class App extends React.Component {
