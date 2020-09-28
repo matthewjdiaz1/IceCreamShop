@@ -25,7 +25,7 @@ const data = {
       island where exotic fruits ripen in the golden
       sun. We combine pure, sweet cream, tropical
       pineapple, and delectable coconut flavor for a
-      truly indulgent ice cream experience`,
+      truly indulgent ice cream experience.`,
       primaryColor: "rgb(248,206,101)",
       secondaryColor: "rgb(245,181,90)",
     },
