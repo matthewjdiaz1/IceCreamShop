@@ -32,6 +32,10 @@ class HeaderButton extends React.Component {
         style={this.state.style}
         onMouseEnter={this.toggleHover}
         onMouseLeave={this.toggleHover}
+        onClick={(e) => {
+          e.preventDefault();
+          if (this.props.link) window.location.href = this.props.link;
+        }}
       >
         {this.props.text}
       </div>
