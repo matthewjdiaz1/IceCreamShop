@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/IceCreamShop/static/css/main.bbec8a60.chunk.css",
-    "main.js": "/IceCreamShop/static/js/main.4f74fa8f.chunk.js",
-    "main.js.map": "/IceCreamShop/static/js/main.4f74fa8f.chunk.js.map",
+    "main.js": "/IceCreamShop/static/js/main.24f7df87.chunk.js",
+    "main.js.map": "/IceCreamShop/static/js/main.24f7df87.chunk.js.map",
     "runtime-main.js": "/IceCreamShop/static/js/runtime-main.77b336d7.js",
     "runtime-main.js.map": "/IceCreamShop/static/js/runtime-main.77b336d7.js.map",
     "static/js/2.ebe9c038.chunk.js": "/IceCreamShop/static/js/2.ebe9c038.chunk.js",
     "static/js/2.ebe9c038.chunk.js.map": "/IceCreamShop/static/js/2.ebe9c038.chunk.js.map",
     "index.html": "/IceCreamShop/index.html",
-    "precache-manifest.7cadd46c752a305c21fcaa55fe15e61f.js": "/IceCreamShop/precache-manifest.7cadd46c752a305c21fcaa55fe15e61f.js",
+    "precache-manifest.6c410a2ee1c67d67032028ef3f127e18.js": "/IceCreamShop/precache-manifest.6c410a2ee1c67d67032028ef3f127e18.js",
     "service-worker.js": "/IceCreamShop/service-worker.js",
     "static/css/main.bbec8a60.chunk.css.map": "/IceCreamShop/static/css/main.bbec8a60.chunk.css.map",
     "static/js/2.ebe9c038.chunk.js.LICENSE.txt": "/IceCreamShop/static/js/2.ebe9c038.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.77b336d7.js",
     "static/js/2.ebe9c038.chunk.js",
     "static/css/main.bbec8a60.chunk.css",
-    "static/js/main.4f74fa8f.chunk.js"
+    "static/js/main.24f7df87.chunk.js"
   ]
 }
